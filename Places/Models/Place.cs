@@ -34,6 +34,10 @@ namespace Places.Models
       return _location[searchId -1];
     }
 
-  }
+    public static void ClearAll()
+    {
+      _location.Clear();
+    }
 
+  }
 }

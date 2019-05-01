@@ -28,11 +28,11 @@ namespace Places.Controllers
       return RedirectToAction("Index");
     }
 
-    // [HttpPost("/places/delete")]
-    // public ActionResult DeleteAll()
-    // {
-    //   Place.ClearAll();
-    //   return View();
-    // }
+    [HttpPost("/places/delete")]
+    public ActionResult DeleteAll()
+    {
+      Place.ClearAll();
+      return View();
+    }
   }
 }
