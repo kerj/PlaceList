@@ -1,25 +1,21 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using Places.Controllers;
-using Places.Models;
-
-namespace Places.Tests
-{
-    [TestClass]
-    public class PlacesControllerTest
-    {
-      [TestMethod]
-      public void AddCrew_AddPersonToPlaceObject_Crew()
-      {
-        List<Place> location = new ListPlace{};
-        Crew newCrew = new Crew("Jason");
-
-        string newPerson = location.AddCrew(1);
-
-        Assert.AreEqual( , newPerson)
-
-      }
-    }
-
-}
+// using Microsoft.VisualStudio.TestTools.UnitTesting;
+// using Microsoft.AspNetCore.Mvc;
+// using System.Collections.Generic;
+// using Places.Controllers;
+// using Places.Models;
+//
+// namespace Places.Tests
+// {
+    // [TestClass]
+    // public class PlacesControllerTest
+    // {
+    //   [TestMethod]
+    //   public void Find_FindLocationInList_ID()
+    //   {
+    //     Place newPlace = new Place("Reno", 3, "Eat at The Golden Flower");
+    //     int placeId = newPlace.Find(1);
+    //     Assert.AreEqual(1, placeId);
+    //   }
+    // }
+// 
+// }
