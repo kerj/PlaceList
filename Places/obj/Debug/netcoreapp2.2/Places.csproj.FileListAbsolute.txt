@@ -15,7 +15,6 @@
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.TagHelpers.output.cache
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.RazorCoreGenerate.cache
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Razor/Views/Home/index.g.cshtml.cs
-/Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Razor/Views/Places/CreateFrom.g.cshtml.cs
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Razor/Views/Places/index.g.cshtml.cs
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.RazorTargetAssemblyInfo.cache
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.RazorTargetAssemblyInfo.cs
@@ -23,3 +22,4 @@
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.dll
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.pdb
 /Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Places.csproj.CopyComplete
+/Users/Guest/Desktop/Places.solution/Places/obj/Debug/netcoreapp2.2/Razor/Views/Places/CreateForm.g.cshtml.cs

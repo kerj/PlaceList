@@ -13,8 +13,9 @@ namespace Places.Tests
     {
       Place newPlace = new Place("Reno", 3, "Eat at The Golden Flower");
       Place newPlaceTwo = new Place("Tampa", 12, "Go to the MOSI");
-      Place placeId = Place.FindItNow(2);
-      Assert.AreEqual(1, placeId.Id);
+      Place newPlaceThree = new Place("Phoenix", 67, "Go to the desert");
+      Place placeId = Place.FindItNow(3);
+      Assert.AreEqual(67, placeId.DaysStayed);
     }
   }
 
